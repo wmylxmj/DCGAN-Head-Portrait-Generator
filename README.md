@@ -1,5 +1,6 @@
 # DCGAN-Draw-Faces
 深度卷积生成对抗网络（DCGAN）—— 动漫人脸生成 2018-10-22
+## 请使用version7.py以上版本
 ## DCGAN结构：
 ![](images/struct.png)
 ## 训练集下载：
