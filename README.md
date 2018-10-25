@@ -16,20 +16,20 @@
 ## 训练推荐使用GPU，能为你带来100倍左右的提速
 ## 训练效果：
 ### epoch 1
-![](result1/DCGAN_GEN_1.png)
+![](results1/DCGAN_GEN_1.png)
 ### epoch 2
-![](result1/DCGAN_GEN_2.png)
+![](results1/DCGAN_GEN_2.png)
 ### epoch 4
-![](result1/DCGAN_GEN_4.png)
+![](results1/DCGAN_GEN_4.png)
 ### epoch 8
-![](result1/DCGAN_GEN_8.png)
+![](results1/DCGAN_GEN_8.png)
 ### epoch 16
-![](result1/DCGAN_GEN_16.png)
+![](results1/DCGAN_GEN_16.png)
 ### epoch 32
-![](result1/DCGAN_GEN_32.png)
+![](results1/DCGAN_GEN_32.png)
 ### epoch 64
-![](result1/DCGAN_GEN_64.png)
+![](results1/DCGAN_GEN_64.png)
 ### epoch 128
-![](result1/DCGAN_GEN_128.png)
+![](results1/DCGAN_GEN_128.png)
 ### epoch 256
-![](result1/DCGAN_GEN_256.png)
+![](results1/DCGAN_GEN_256.png)
