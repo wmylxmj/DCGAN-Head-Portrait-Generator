@@ -38,6 +38,6 @@
 ![](results1/DCGAN_GEN_360.png)
 ### epoch 365
 ![](results1/DCGAN_GEN_365.png)
-### epoch 370
-![](results1/DCGAN_GEN_370.png)
+### epoch 375
+![](results1/DCGAN_GEN_375.png)
 
