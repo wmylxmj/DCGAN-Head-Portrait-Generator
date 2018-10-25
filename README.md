@@ -40,4 +40,10 @@
 ![](results1/DCGAN_GEN_365.png)
 ### epoch 375
 ![](results1/DCGAN_GEN_375.png)
-
+## 推荐的超参数：
+### batchsize 64~128
+### z dim 90~110
+### learning rate 0.0002
+### adam beta1 0.5
+### leaky relu alpha 0.2
+## 注意：训练可能消耗过多的时间和CPU,GPU资源
