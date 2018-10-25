@@ -34,6 +34,6 @@
 ![](results1/DCGAN_GEN_128.png)
 ### epoch 256
 ![](results1/DCGAN_GEN_256.png)
-### epoch 379
-![](results1/DCGAN_GEN_379.png)
+### epoch 360
+![](results1/DCGAN_GEN_360.png)
 
